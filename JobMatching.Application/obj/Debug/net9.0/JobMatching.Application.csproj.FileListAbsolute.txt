@@ -1,0 +1,15 @@
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/bin/Debug/net9.0/JobMatching.Application.deps.json
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/bin/Debug/net9.0/JobMatching.Application.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/bin/Debug/net9.0/JobMatching.Application.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/bin/Debug/net9.0/JobMatching.Domain.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/bin/Debug/net9.0/JobMatching.Domain.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.csproj.AssemblyReference.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.AssemblyInfoInputs.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.AssemblyInfo.cs
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.csproj.CoreCompileInputs.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatch.F1927B83.Up2Date
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/refint/JobMatching.Application.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/JobMatching.Application.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Application/obj/Debug/net9.0/ref/JobMatching.Application.dll

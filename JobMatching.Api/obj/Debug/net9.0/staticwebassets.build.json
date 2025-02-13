@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HCGBK13b5o+R+9Xpc5TwOoXFfJO6ZZOWoPa1AMsOi/k=",
+  "Source": "JobMatching.Api",
+  "BasePath": "_content/JobMatching.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

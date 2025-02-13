@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNet.Security.OAuth.LinkedIn" Version="9.0.0" />
+    <PackageReference Include="itextsharp" Version="5.5.13.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="9.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.3.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.4.0" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+    <PackageReference Include="Stripe.net" Version="47.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.4.0" />
+    <PackageReference Include="System.Net.Http.Json" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobMatching.Domain\JobMatching.Domain.csproj" />
+    <ProjectReference Include="..\JobMatching.Application\JobMatching.Application.csproj" />
+    <ProjectReference Include="..\JobMatching.Infrastructure\JobMatching.Infrastructure.csproj" />
+    <ProjectReference Include="..\JobMatching.Infrastructure\JobMatching.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

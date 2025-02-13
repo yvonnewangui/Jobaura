@@ -1,0 +1,17 @@
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Infrastructure.deps.json
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Infrastructure.runtimeconfig.json
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Infrastructure.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Infrastructure.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Domain.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/bin/Debug/net9.0/JobMatching.Domain.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.csproj.AssemblyReference.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.AssemblyInfoInputs.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.AssemblyInfo.cs
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatch.C729798A.Up2Date
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/refint/JobMatching.Infrastructure.dll
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.pdb
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/JobMatching.Infrastructure.genruntimeconfig.cache
+/Users/ms.nduta/Documents/Work/Burn/JobMatching/JobMatching.Infrastructure/obj/Debug/net9.0/ref/JobMatching.Infrastructure.dll
